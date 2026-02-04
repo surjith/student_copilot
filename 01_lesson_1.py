@@ -13,7 +13,7 @@ if __name__ == "__main__":
         "today": "2026-02-03",
         "assignments": [
             {"title": "Algebra worksheet", "subject": "Math", "due_date": "2026-02-05", "est_minutes": 45, "status": "in_progress"},
-            {"title": "Persuasive writing draft", "subject": "English", "due_date": "2026-02-06", "est_minutes": 90, "status": "not_started"},
+            {"title": "Persuasive writing draft", "subject": "English", "due_date": "2026-02-06", "est_minutes": 30, "status": "not_started"},
             {"title": "Science glossary", "subject": "Science", "due_date": "2026-02-10", "est_minutes": 30, "status": "not_started"},
         ],
         "today_plan": [],
